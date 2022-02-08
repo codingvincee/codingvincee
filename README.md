@@ -1,15 +1,1 @@
-### Hi there 👋, my name is Vincent Nys
-#### Full Stack Developer
-
-Skills: Java / C++ / Python / PHP / ReactJs / JS / HTML / CSS
-
-- 🔭 I’m currently working on Custom plugins and Discord bots. 
-- 🌱 I’m currently learning Kotlin & ReactJs 
-- 
-![GitHub metrics](https://metrics.lecoq.io/codingvincee)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/codingvincee)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nysvincent//)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=codingvincee)  
-
-![Profile views](https://gpvc.arturio.dev/codingvincee)  
+![Metrics](https://metrics.lecoq.io/codingvincee?template=classic&languages=1&projects=1&code=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=100&code.visibility=public&config.timezone=Europe%2FBrussels)
